@@ -4,3 +4,9 @@
 
 # LangGraph
 .langgraph_api/
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.venv
+.idea
